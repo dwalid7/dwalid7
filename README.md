@@ -1,3 +1,6 @@
+<p align="center">
+  <br><img src="https://github.com/dwalid7/dwalid7/Developer.gif" width="450px"><br><br>
+</p>
 <h2 align='center'> 🙋🏻‍♂️ Salut, Je suis Walid, Bienvenu dans mon GitHub !🧑🏻‍💻 </h2>
 
 <p align='center'>
