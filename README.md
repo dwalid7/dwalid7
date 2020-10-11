@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dwalid7/dwalid7/blob/main/Developer.gif width="450px">
+  <img src="https://github.com/dwalid7/dwalid7/blob/main/Developer.gif" width="450px">
 </p>
 <h2 align='center'> 🙋🏻‍♂️ Salut, Je suis Walid, Bienvenu dans mon GitHub !🧑🏻‍💻 </h2>
 
