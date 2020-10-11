@@ -5,12 +5,12 @@
 
 <p align='center'>
 <a href="https://www.freecodecamp.org/dwalid7"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/walid-d-894628153/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/walid-d-894628153/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **Langages et outils:**
 
-<p align="center">&nbsp;&nbsp;&nbsp;
+<p align="center">
 
   <div align="center">
   
