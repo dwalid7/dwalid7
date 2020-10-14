@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/dwalid7/dwalid7/blob/main/Developer.gif" width="450px">
 </p>
-<h2 align='center'> 🙋🏻‍♂️ Salut, Je suis Walid, Bienvenu dans mon GitHub !🧑🏻‍💻 </h2>
+<h2 align='center'> 🙋🏻‍♂️ Salut, Je suis Walid, Bienvenue dans mon GitHub !🧑🏻‍💻 </h2>
 
 <p align='center'>
 <a href="https://www.freecodecamp.org/dwalid7"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
